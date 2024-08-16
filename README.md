@@ -1,8 +1,8 @@
 ## oiii pessoal, td bemm? ❤️
 ## Bem vindos ao meu perfil!
- :ola, me chamo tauh 
- :Estou estudando alura
- :Utilizo esse espaço para poder compartilhar um pouquinho com vocês meus projetos
+ - ola, me chamo tauh 
+ - Estou estudando alura
+ - Utilizo esse espaço para poder compartilhar um pouquinho com vocês meus projetos
  e um pouco sobre as belezas da vida , apesar de sermos como uma borboleta " cada dia aprendemos a voar 
  cada vez mais longe, mesmo com tantos altos e baixos no nosso casúlo" 🦋
 
