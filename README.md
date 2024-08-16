@@ -1,16 +1,12 @@
-## Hi there 👋
+## oiii pessoal, td bemm? ❤️
+## Bem vindos ao meu perfil!
+ :ola, me chamo tauh 
+ :Estou estudando alura
+ :Utilizo esse espaço para poder compartilhar um pouquinho com vocês meus projetos
+ e um pouco sobre as belezas da vida , apesar de sermos como uma borboleta " cada dia aprendemos a voar 
+ cada vez mais longe, mesmo com tantos altos e baixos no nosso casúlo" 🦋
 
-<!--
-**Tauhany/Tauhany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## Entre em contato comigo para aprofundarmos mais nos nossos projetos e na plenitude da vida!
+ tauhbutterfly.123@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media.tenor.com/ZUnobMFmO98AAAAi/butterfly-glitter-graphic-glossi.gif)
